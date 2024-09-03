@@ -2,4 +2,4 @@
 
 - 💻 Atualmente estou cursando Ciência da Computação no Instituto Federal Catarinense (IFC)
 - 📗 Estudando C e C++
-- 📫 Contate-me no email: laraliesenberg@gmail.com
+- 📫 Entre em contato comigo no email: laraliesenberg@gmail.com
