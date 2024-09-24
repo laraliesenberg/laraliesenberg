@@ -4,7 +4,7 @@
 - 📗 Estudando C e C++
 - 📫 Entre em contato comigo no email: laraliesenberg@gmail.com
 
-
+## Conhecimentos:
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=discord,vscode,git,github,html,css,python,c" />
