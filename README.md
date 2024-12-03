@@ -1,13 +1,13 @@
 ## Olá, sou Lara Liesenberg 👋
 
 - 💻 Atualmente estou cursando Ciência da Computação no Instituto Federal Catarinense (IFC)
-- 📗 Estudando C e C++
+- 📗 Estudando C, C++ e Java
 - 📫 Entre em contato comigo no email: laraliesenberg@gmail.com
 
 ## Conhecimentos:
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=discord,vscode,git,github,html,css,python,c" />
+    <img src="https://skillicons.dev/icons?i=discord,vscode,git,github,html,css,python,c,java" />
   </a>
 </p>
 
